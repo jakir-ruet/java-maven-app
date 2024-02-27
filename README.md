@@ -1,0 +1,2 @@
+### Lava Maven application
+
