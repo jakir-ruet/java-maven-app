@@ -1,2 +1,2 @@
-### Lava Maven application
+## Java Maven for DevOps  
 
